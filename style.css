@@ -1,0 +1,12 @@
+.conteiner{
+    background-color: #FFC0CB;
+}
+
+.col_1, .col_12, .col_8, .col_2{
+    border: 1px solid black;
+}
+
+p{
+    text-align: center;
+    padding: 100px 0;
+}
